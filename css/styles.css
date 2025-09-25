@@ -713,7 +713,7 @@ margin-right: 120px
 }
 
 .modal-filed {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-input {
@@ -757,6 +757,9 @@ margin-right: 120px
     margin-bottom: 4px;
 }
 
+.modal-text-box {
+    margin-bottom: 16px;
+}
 
 
 .form-input {
